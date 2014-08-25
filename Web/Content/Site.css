@@ -1,7 +1,6 @@
 ﻿body
 {
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding: 50px 10px;
 }
 
 .body-content
@@ -13,7 +12,7 @@
 h1
 {
   color: rgb(89, 89, 89);
-  font-size: 4em;
+  font-size: 3em;
 }
 
 h2
@@ -29,4 +28,9 @@ a
 footer
 {
   margin-top: 30px;
+}
+
+img
+{
+  max-width: 100%;
 }

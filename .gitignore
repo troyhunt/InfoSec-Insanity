@@ -172,3 +172,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# Useless crap added by Windows
+*.db
